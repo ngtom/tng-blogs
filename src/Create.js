@@ -23,7 +23,6 @@ const Create = () => {
       //hist.go(-1)
       hist.push("/")
     })
-    
   }
 
   return (  
